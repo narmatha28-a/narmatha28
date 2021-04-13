@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+float fa,ce;
+clrscr;
+printf("enter the value of celsius");
+scanf("%f",&ce);
+fa=(1.8*ce)+32;
+printf("fa=%f",fa);
+printf("fa=%f",fa);
+getch();
+}
